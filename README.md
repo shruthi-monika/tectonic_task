@@ -1,5 +1,5 @@
 E-commerce Platform UI Task - React Application
-📋 Task Description
+Task Description
 This project is a basic E-commerce platform UI created as part of an assignment.
 
 Built with React and Vite using Webpack under the hood.
