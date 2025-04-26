@@ -24,7 +24,16 @@ const looks = [
       { id: 105, image: tshirt_1, name: 'New Jeans', price: '₹1499' },
       { id: 106, image: tshirt_2, name: 'New Sneakers', price: '₹2499' }
     ]
-  }
+  },
+  {
+  id: 3,
+  video: "https://www.youtube.com/embed/PdJq-dAQr-Y?autoplay=1&mute=1",
+  products: [
+    { id: 104, image: tshirt, name: 'New T-Shirt', price: '₹599' },
+    { id: 105, image: tshirt_1, name: 'New Jeans', price: '₹1499' },
+    { id: 106, image: tshirt_2, name: 'New Sneakers', price: '₹2499' }
+  ]
+}
 ];
 
 const Lookbook = () => {
