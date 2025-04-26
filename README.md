@@ -10,7 +10,6 @@ This project demonstrates the basics of dynamic rendering, component structure, 
  How to Setup and Run Locally
 Clone the Repository
 
-git clone https://github.com/yourusername/ecommerce-platform-task.git
 Navigate into the project folder
 
 cd ecommerce-platform-task
